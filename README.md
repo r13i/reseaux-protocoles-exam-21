@@ -3,6 +3,27 @@
 Ce répertoire contient le compte-rendu de l'examen, ainsi que les différents diagrammes, animations et simulations.
 
 ### Table des matières
+1. [Machines d'état](https://github.com/redouane-dev/reseaux-protocoles-exam-21#machines-d%C3%A9tat)
+    * [Protocole X.25](https://github.com/redouane-dev/reseaux-protocoles-exam-21#protocole-x25)
+    * [ARP - Address Resolution Protocol](https://github.com/redouane-dev/reseaux-protocoles-exam-21#arp---address-resolution-protocol)
+    * [IP - Internet Protocol](https://github.com/redouane-dev/reseaux-protocoles-exam-21#ip---internet-protocol)
+
+2. [Illustration du Fonctionnement](https://github.com/redouane-dev/reseaux-protocoles-exam-21#illustration-du-fonctionnement)
+    * [Protocole X.25](https://github.com/redouane-dev/reseaux-protocoles-exam-21#protocole-x25-1)
+    * [ARP - Address Resolution Protocol](https://github.com/redouane-dev/reseaux-protocoles-exam-21#arp---address-resolution-protocol-1)
+    * [IP - Internet Protocol](https://github.com/redouane-dev/reseaux-protocoles-exam-21#ip---internet-protocol-1)
+
+3. [Protocole ICMP](https://github.com/redouane-dev/reseaux-protocoles-exam-21#protocole-icmp)
+    * [ICMP - Machine d'état et pricipe de fonctionnement](https://github.com/redouane-dev/reseaux-protocoles-exam-21#icmp---machine-d%C3%A9tat-et-pricipe-de-fonctionnement)
+    * [ICMP - Illustration du fonctionnement](https://github.com/redouane-dev/reseaux-protocoles-exam-21#icmp---illustration-du-fonctionnement)
+        * [PING sur réseau LAN](https://github.com/redouane-dev/reseaux-protocoles-exam-21#ping-sur-r%C3%A9seau-lan)
+        * [PING vers un nom de domaine sur un réseau distant](https://github.com/redouane-dev/reseaux-protocoles-exam-21#ping-vers-un-nom-de-domaine-sur-un-r%C3%A9seau-distant)
+    * [Relation entre ICMP et les autres protocoles](https://github.com/redouane-dev/reseaux-protocoles-exam-21#relation-entre-icmp-et-les-autres-protocoles)
+        * [ICMP vs. X.25](https://github.com/redouane-dev/reseaux-protocoles-exam-21#icmp-vs-x25)
+        * [ICMP vs. ARP](https://github.com/redouane-dev/reseaux-protocoles-exam-21#icmp-vs-arp)
+        * [ICMP vs. IP](https://github.com/redouane-dev/reseaux-protocoles-exam-21#icmp-vs-ip)
+
+4. [Structure de ce répertoire](https://github.com/redouane-dev/reseaux-protocoles-exam-21#structure-de-ce-r%C3%A9pertoire)
 
 ----------------------------------------------------------------------------------------------------
 ## Machines d'état
